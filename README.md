@@ -2,7 +2,7 @@
 
 🔭 Trabajo como Diseñador Web Freelance.
 
-🌱 Actualmente estoy aprendiendo en el **Bootcamp Fullstack Developer** (16 semanas) a partir de marzo 2023, dictado por [Guillermo Rodas](https://guillermorodas.com)
+🌱 Actualmente estoy aprendiendo en el **Bootcamp Javascript Full-Stack** (16 semanas) a partir de marzo 2023, dictado por [Guillermo Rodas](https://guillermorodas.com)
 
 ## Comandos de Terminal
 | Comando | Descripción |

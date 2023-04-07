@@ -8,7 +8,7 @@
 | Comando | Descripción |
 | ------- | ----------- |
 | *mkdir* | Crea una nueva carpeta |
-| *cd* | Cambia a un directorio |
+| *cd* | Cambia entre directorios |
 | *touch* | Crea un nuevo archivo |
 | *cp -r* | Copia un directorio y todo su contenido a una ruta final |
 | *rm -r* | Elimina una carpeta y todo su contenido |
@@ -16,5 +16,5 @@
 ## Alias de Comandos
 | Alias | Descripción |
 | --- | --- |
-| npmd | alias npmd="npm run dev" |
-| npms | alias npms="npm start" |
+| npmd | ```alias npmd="npm run dev"``` |
+| npms | ```alias npms="npm start"``` |
